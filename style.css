@@ -1,0 +1,30 @@
+
+
+body{
+    text-align: center;
+    background-color: ;
+}
+.sc{
+    background-color: gray;
+    height: auto;
+    margin-top: 200px;
+    padding: 20px;
+  width: 60vh;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.btn-1{
+    background-color: magenta;
+    height: auto;
+    margin-top: 200px;
+    padding: 20px;
+    
+   
+    font-size: 20px;
+}
+ul{
+    list-style: none;
+    font-size: 20px;
+
+}
